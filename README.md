@@ -1,5 +1,5 @@
 # Introduction
-N/A
+A collection of random arduino scripts, I believe it was for a ultrasonic range sensor monitor. Feel free to laugh at, use, or modify as desired.
 
 # Usage
 N/A
@@ -11,4 +11,4 @@ N/A
 N/A
 
 # Previews
-![preview image](https://via.placeholder.com/350x240)
+N/A
